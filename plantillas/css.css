@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif;
+    background-color: white;
+    border: 3px: blue;
+    border-style: dashed;
+}
+
+h1 {
+    color:crimson;
+}
+h2 {
+    border-style: solid;
+    border-color: blueviolet;
+}
+h3 {
+    border-style: double;
+    border-color: cadetblue;
+}
+h4 {
+    border-style: outset;
+    border-color: coral;
+}
+h5 {
+    border-style: inset;
+    border-color: cyan;
+}
+h6 {
+    border-style: groove;
+    border-color: darkolivegreen;
+}
